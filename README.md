@@ -1,8 +1,8 @@
 # MM6-Python-Project
-## Table of content
-* [1. Project information]
-* [2. Environment]
-* [3. Group Members]
+## Table of Content
+* [1. Project Information](#1-project-information)
+* [2. Environment](#2-environment)
+* [3. Group Members](#3-group-members)
   
 
 ## 1. Project Information:
