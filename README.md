@@ -11,10 +11,10 @@
 2.  conda activate Python_MM6
 3.  conda install jupyter
 4.  Install Packages
-   a. pip install pandas
-   b. pip install numpy
-   c. pip install matplotlib
-   d. pip install seaborn     
+   ,pip install pandas
+   ,pip install numpy
+   ,pip install matplotlib
+   ,pip install seaborn     
 
 5. Start Jupyter: jupyter notebook
 6. conda deactivate Python_MM6 when done.
